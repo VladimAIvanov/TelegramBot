@@ -1,0 +1,3 @@
+# Вставьте сюда токен вашего бота, полученный у @BotFather в Telegram.
+# Этот файл НЕ должен попадать в git (см. .gitignore).
+BOT_TOKEN=your_token_here
